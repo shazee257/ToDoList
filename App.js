@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import { StyleSheet, Text, View, AsyncStorage, ScrollView } from "react-native";
 import { Appbar, TextInput, Button, Card, List } from "react-native-paper";
-import ShowList from "./ShowList";
 
 export default class App extends Component {
   arr = [];
