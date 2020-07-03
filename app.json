@@ -26,7 +26,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "By Muhammad Shahzad\n@React Native.js",
+    "description": "By Muhammad Shahzad\nBuilt React Native Mini Project",
     "githubUrl": "https://github.com/shazee257/ToDoList"
   }
 }
